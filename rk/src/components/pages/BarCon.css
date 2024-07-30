@@ -1,0 +1,23 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.upload{
+    height: 50vh;
+    width: 30vw;
+    border: 1px dashed black;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 20px;
+}
+.upload p{
+position: relative;
+
+font-size: x-large;
+text-align: center;
+top:30%;
+font-weight: 900;
+
+}

@@ -1,0 +1,32 @@
+.header_product{
+    display: flex;
+    background-color: whitesmoke;
+    align-items: center;
+
+}
+.field{
+    flex:0.1;
+    text-align: center;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.edit_delete_product{
+    flex:0.4;
+    text-align: center;
+    border: 1px solid black;
+  padding: 5px;
+}
+
+.all_product{
+    display: flex;
+    background-color: whitesmoke;
+    align-items: center;
+}
+
+.edit_product{
+    flex:0.4;
+    text-align: center;
+    border: 1px solid black;
+  padding: 5px;
+}
